@@ -1,6 +1,6 @@
 # science / engineering
 CSE 848 evolutionary computing
-Ibio class?
+IBIO 849 evolutionary biology
 
 # math / statistics
 STT 801  Design of Experiments
