@@ -1,5 +1,6 @@
 all: out
 		(\
+		cat "plan-of-study.md"; echo;\
 		cat "research/field-role-prompt.md"; echo;\
 		cat "research/field-role-response.md"; echo;\
 		cat "research/use-compute-prompt.md"; echo;\
