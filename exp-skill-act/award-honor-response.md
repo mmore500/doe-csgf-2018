@@ -20,18 +20,16 @@ Recipient of Puget Sound Association of Phi Beta Kappa Scholarship (regional ess
 
 Recipient of Honors Alumni Scholarship (departmental award; 2015-2016, 2016-2017)
 
-Recipient of Thomas and Hilda Jack (2014-2015), Sprenger (2015-2016, 2016-2017), and McKnight Memorial (2016-2017)
-Scholarships in chemistry (departmental awards)
+Recipient of Thomas and Hilda Jack (2014-2015), Sprenger (2015-2016, 2016-2017), and McKnight Memorial (2016-2017) Scholarships in chemistry (departmental awards)
 
-Recipient of McGill Family (2015-2016), McKnight (2015-2016), and Thomas and Hilda Jack (2016-2017) Scholarships in
-mathematics (departmental awards)
+Recipient of McGill Family (2015-2016), McKnight (2015-2016), and Thomas and Hilda Jack (2016-2017) Scholarships in mathematics (departmental awards)
 
 Recipient of Beta Theta Pi Men of Principle Scholarship (institutional award; 2014-2015)
 
 Recipient of University of Puget Sound Trustee Scholarship (institutional award; 2013-2017)
 
-Dean’s List (institutional award; Spring 2014-Present)
+Dean’s List (institutional award; Spring 2014-Spring 2017)
 
-Member of Otis C. Chapman Honors Program (2013-Present)
+Member of Otis C. Chapman Honors Program (2013-2017)
 
-Member Phi Beta Kappa, Pi Mu Epsilon, Phi Kappa Phi, Upsilon Pi Epsilon
+Member Phi Beta Kappa, Phi Kappa Phi, Pi Mu Epsilon (mathematics), Upsilon Pi Epsilon (computer science)
