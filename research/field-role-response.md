@@ -6,9 +6,10 @@ Such a computational burden is currently extremely prohibitive.
 
 Inspiration from biology might enable more efficient and effective evolution of DL architecture.
 The theory of neuronal group selection (NGS) posits that development generates an excess of neural subnetworks, of which only those that successfully integrate into overall brain functionality are retained.
-In DL models, node and connection removal techniques mirroring NGS have been used to shrink parameter count by an entire order of magnitude without incurring accuracy loss.
-I will investigate how NGS-inspired pruning, which has not been incorporated in existing architecture-evolution work, might make DL architecture evolution more efficient.
-I hope that accessible, automated methods to design DL architectures will empower a much broader range of researchers and entrepreneurs - especially those without a formal background in computing - to leverage DL to make new discoveries and build new real-world products that, in the end, benefit everyone.
+In DL models, NGS-inspired node and connection removal techniques have been used to shrink parameter count tenfold without incurring accuracy loss.
+I will investigate how NGS-inspired pruning, which has not been incorporated in existing architecture-evolution work, can make DL architecture evolution more efficient.
+I hope that accessible, automated methods to design DL architectures will empower more--and more diverse--researchers and entrepreneurs to leverage DL, especially those without large amounts of startup capital or a formal background in computing.
+In the end, everyone benefits from a broader, larger workforce building real-world services like automated diagnostic aids for doctors and real-time content moderation for social media.
 Additionally, my experiments will help to characterize the theoretical relationship between developmental plasticity and evolution.
 In particular, I am interested in understanding how developmental plasticity, in this case NGS-inspired pruning, might enable irregular refinements that are otherwise inhibited by the constrains of indirect genetic encoding.
-Answering this question will help biologists better understand the evolutionary history of the development process in biology and help engineers better harness evolution-inspired approaches to solve real-world problems.
+Addressing this question will shed light on the evolutionary origins of complexity, a topic of interest to biologists and engineers alike.
