@@ -21,7 +21,7 @@ all: out
 		cat "pubs/papers.md"; echo;\
 		cat "pubs/talks.md"; echo;\
 		cat "pubs/posters.md"; echo\
-		) | pandoc -o "out/all-out.pdf"
+		) | pandoc -f commonmark -o "out/all-out.pdf"
 
 out:
 		mkdir $@
