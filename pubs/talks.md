@@ -6,6 +6,8 @@ Jordan Fonseca, Jesse Jenks, and Matthew Moreno. MCM: Impact of Autonomous Vehic
 
 Matthew Moreno. COMAP Mathematical Competition in Modeling 2017. Spring Experiential Learning Symposium, University of Puget Sound. April 2017.
 
+Matthew Moreno. Evolvability and Plasticity in a Genetic Regulatory Network Model. Math & Computer Science Department Seminar Series, University of Puget Sound. April 2017.
+
 Matthew Moreno. Modeling the Collective Behavior of Ants on Uneven Terrain. Phi Sigma Undergraduate Research Symposium, University of Puget Sound. April 2017.
 
 Matthew Moreno. Evolvability: What Is It and How Do We Get It?. Otis C. Chapman Honors Program Thesis Presentation, University of Puget Sound. March 2017.
