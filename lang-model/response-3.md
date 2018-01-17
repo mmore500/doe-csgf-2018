@@ -4,4 +4,4 @@ Deep learning framework (PyTorch)
 
 ## Description
 
-With this approach, I use reliable plug-and-play components to define sophisticated deep learning models and deploy these models to GPU hardware for compute-intensive training.
+With this approach, I use plug-and-play components to construct sophisticated deep learning models, deploy these models to GPU hardware for compute-intensive training, and assess model performance.
