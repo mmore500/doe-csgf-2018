@@ -11,4 +11,4 @@ I will investigate how NGS-inspired pruning, which has not been incorporated in 
 I hope that accessible, automated methods to design DL architectures will empower a much broader range of researchers and entrepreneurs - especially those without a formal background in computing - to leverage DL to make new discoveries and build new real-world products that, in the end, benefit everyone.
 Additionally, my experiments will help to characterize the theoretical relationship between developmental plasticity and evolution.
 In particular, I am interested in understanding how developmental plasticity, in this case NGS-inspired pruning, might enable irregular refinements that are otherwise inhibited by the constrains of indirect genetic encoding.
-Answering this question will help biologists better understand the evolutionary history of embryonic development and help engineers better harness evolution-inspired approaches to solve real-world problems.
+Answering this question will help biologists better understand the evolutionary history of the development process in biology and help engineers better harness evolution-inspired approaches to solve real-world problems.
